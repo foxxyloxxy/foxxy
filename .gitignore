@@ -3,5 +3,7 @@
 !.gitignore
 !README.md
 
+download/readme.txt
+
 !cfg/
 !custom/
