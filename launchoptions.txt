@@ -1,0 +1,3 @@
+-novid -dxlevel 81 -w 1920 -h 1080
+
+remove -dxlevel 81 after first launch!! or else tab in/out time will be very slow
