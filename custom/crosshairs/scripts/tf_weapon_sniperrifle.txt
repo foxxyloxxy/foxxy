@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/yzwings"
+				"file"		"vgui/replay/thumbnails/sniperbigOL"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

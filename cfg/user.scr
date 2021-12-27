@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Fri Oct 15 20:16:12 AM
+// File generated:  Sat Nov 27 15:47:42 AM
 //
 //
 // Cvar	-	Setting
@@ -132,7 +132,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "140" }
+		{ "100" }
 	}
 
 	"tf_dingaling_pitchmaxdmg"
@@ -140,7 +140,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "50" }
+		{ "100" }
 	}
 
 	"tf_dingalingaling_lasthit"
@@ -362,7 +362,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_SpectateCarriedItems"
 		"#Tooltip_SpectateCarriedItems"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"glow_outline_effect_enable"
@@ -385,7 +385,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_HudPlayerClassUsePlayerModel"
 		"#ToolTip_HudPlayerClassUsePlayerModel"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"viewmodel_fov"
@@ -393,7 +393,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_viewmodelfov_option"
 		"#Tooltip_viewmodelfov_option"
 		{ SLIDER 54 70 }
-		{ "75" }
+		{ "70" }
 	}
 
 	"tf_spectator_target_location"
@@ -672,7 +672,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_use_min_viewmodels_option"
 		"#Tooltip_use_min_viewmodels_option"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_spraydisable"
@@ -719,7 +719,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_ShowNotificationsInGame"
 		"#Tooltip_ShowNotificationsInGame"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_trading_show_requests_from"
