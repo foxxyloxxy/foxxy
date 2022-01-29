@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sat Nov 27 15:47:42 AM
+// File generated:  Tue Jan  4 16:50:54 AM
 //
 //
 // Cvar	-	Setting
@@ -230,7 +230,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextGreen"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "1" }
+		{ "128" }
 	}
 
 	"hud_combattext_blue"

@@ -132,4 +132,16 @@
 		"date"		"1626045256"
 		"addr"		"85.117.240.4:27045"
 	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU"
+		"date"		"1641591630"
+		"addr"		"193.221.192.10:27015"
+	}
+	"server"
+	{
+		"name"		"    =(eGO)= 2FORT | US | FAST RESPAWN | EdgeGamers.com"
+		"date"		"1642563982"
+		"addr"		"74.91.124.12:27015"
+	}
 }
