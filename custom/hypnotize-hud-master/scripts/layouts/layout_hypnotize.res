@@ -103,7 +103,7 @@
 	CMainTargetID
 	{
 		"ypos"										"240"
-		"ypos_minmode"								"240"
+		"ypos_minmode"								"300"
 		"tall"	 									"50"
 		"tall_minmode"	 							"50"
 	}
@@ -111,7 +111,7 @@
 	CSecondaryTargetID
 	{
 		"ypos"										"270"
-		"ypos_minmode"								"300"
+		"ypos_minmode"								"240"
 		"tall"	 									"50"
 		"tall_minmode"	 							"50"
 	}

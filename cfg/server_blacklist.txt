@@ -144,4 +144,16 @@
 		"date"		"1642563982"
 		"addr"		"74.91.124.12:27015"
 	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU 3"
+		"date"		"1649018513"
+		"addr"		"193.221.192.44:27015"
+	}
+	"server"
+	{
+		"name"		"    Flux.TF | KOTH Highertower | x100 Weapons  "
+		"date"		"1649018515"
+		"addr"		"85.117.240.71:27040"
+	}
 }
