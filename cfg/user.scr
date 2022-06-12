@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Tue Jan  4 16:50:54 AM
+// File generated:  Wed Jun  8 16:46:27 AM
 //
 //
 // Cvar	-	Setting
@@ -132,7 +132,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "140" }
 	}
 
 	"tf_dingaling_pitchmaxdmg"
@@ -140,7 +140,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "50" }
 	}
 
 	"tf_dingalingaling_lasthit"
@@ -182,7 +182,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "50" }
 	}
 
 	"tf_dingaling_lasthit_pitchmaxdmg"
@@ -190,7 +190,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "50" }
 	}
 
 	"hud_combattext"
@@ -703,7 +703,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_UseSteamCloud"
 		"#Tooltip_UseSteamCloud"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_steamscreenshots"
@@ -753,7 +753,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_ShowPromotionalCodesButton"
 		"#Tooltip_ShowPromotionalCodesButton"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"category8"
@@ -831,7 +831,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_DemoSupport_MinStreak"
 		"#TF_DemoSupport_MinStreak_ToolTip"
 		{ NUMBER 2 1000 }
-		{ "4" }
+		{ "99" }
 	}
 
 	"ds_kill_delay"
@@ -839,7 +839,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_DemoSupport_KillDelay"
 		"#TF_DemoSupport_KillDelay_ToolTip"
 		{ NUMBER 5 1000 }
-		{ "99" }
+		{ "5" }
 	}
 
 	"ds_autodelete"
