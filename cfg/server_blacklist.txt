@@ -168,4 +168,22 @@
 		"date"		"1654797625"
 		"addr"		"193.221.192.49:27015"
 	}
+	"server"
+	{
+		"name"		"Uncletopia | Dallas | 4"
+		"date"		"1655318367"
+		"addr"		"74.91.114.138:27045"
+	}
+	"server"
+	{
+		"name"		"Uncletopia | Atlanta | 2"
+		"date"		"1655318369"
+		"addr"		"74.91.112.148:27025"
+	}
+	"server"
+	{
+		"name"		"Uncletopia | New York City | 3"
+		"date"		"1655318370"
+		"addr"		"104.153.107.17:27035"
+	}
 }
