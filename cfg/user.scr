@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Wed Jun  8 16:46:27 AM
+// File generated:  Tue Jul 19 22:26:49 AM
 //
 //
 // Cvar	-	Setting
@@ -230,7 +230,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextGreen"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "128" }
+		{ "76" }
 	}
 
 	"hud_combattext_blue"
@@ -238,7 +238,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Tooltip_CombatTextBlue"
 		"#Tooltip_CombatTextColors"
 		{ SLIDER 1 255 }
-		{ "255" }
+		{ "233" }
 	}
 
 	"tf_remember_activeweapon"
@@ -338,7 +338,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_EnableHUDMinMode"
 		"#Tooltip_EnableHUDMinMode"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_colorblindassist"

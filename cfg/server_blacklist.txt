@@ -8,12 +8,6 @@
 	}
 	"server"
 	{
-		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU 2"
-		"date"		"1582408670"
-		"addr"		"193.221.192.27:27015"
-	}
-	"server"
-	{
 		"name"		"UGC.TF | MGE Mod | EU"
 		"date"		"1583287002"
 		"addr"		"193.221.192.30:27015"
@@ -128,27 +122,9 @@
 	}
 	"server"
 	{
-		"name"		"  ►  BlackWonder US | Hightower | No Carts  ◄"
-		"date"		"1626045256"
-		"addr"		"85.117.240.4:27045"
-	}
-	"server"
-	{
-		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU"
-		"date"		"1641591630"
-		"addr"		"193.221.192.10:27015"
-	}
-	"server"
-	{
 		"name"		"    =(eGO)= 2FORT | US | FAST RESPAWN | EdgeGamers.com"
 		"date"		"1642563982"
 		"addr"		"74.91.124.12:27015"
-	}
-	"server"
-	{
-		"name"		"UGC.TF | HIGH TOWER | NO CARTS | EU 3"
-		"date"		"1649018513"
-		"addr"		"193.221.192.44:27015"
 	}
 	"server"
 	{
@@ -167,23 +143,5 @@
 		"name"		"UGC.TF | HIGHTOWER EVENT | HALLOWEEN | EU"
 		"date"		"1654797625"
 		"addr"		"193.221.192.49:27015"
-	}
-	"server"
-	{
-		"name"		"Uncletopia | Dallas | 4"
-		"date"		"1655318367"
-		"addr"		"74.91.114.138:27045"
-	}
-	"server"
-	{
-		"name"		"Uncletopia | Atlanta | 2"
-		"date"		"1655318369"
-		"addr"		"74.91.112.148:27025"
-	}
-	"server"
-	{
-		"name"		"Uncletopia | New York City | 3"
-		"date"		"1655318370"
-		"addr"		"104.153.107.17:27035"
 	}
 }
