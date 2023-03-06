@@ -1,0 +1,147 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"    =(eGO)= | HIGHTOWER | FAST+ | Edge-Gamers.com"
+		"date"		"1578611299"
+		"addr"		"74.91.122.104:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | MGE Mod | EU"
+		"date"		"1583287002"
+		"addr"		"193.221.192.30:27015"
+	}
+	"server"
+	{
+		"name"		"24/7 Idle Achievement Trade Fun Strange leveling Krits Kush 666"
+		"date"		"1588252718"
+		"addr"		"74.91.124.154:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHER TOWER x10 WEAPONS | EU 2"
+		"date"		"1588885612"
+		"addr"		"193.221.192.33:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT | EU | Fast"
+		"date"		"1588885615"
+		"addr"		"193.221.192.26:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT | EU 2 | Fast"
+		"date"		"1588885616"
+		"addr"		"193.221.192.41:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FOOOOOOOOOORT x10 WEAPONS | EU"
+		"date"		"1588885619"
+		"addr"		"193.221.192.36:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | TURBINE | EU | Fast"
+		"date"		"1588885621"
+		"addr"		"193.221.192.39:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | DUSTBOWL | EU | Fast"
+		"date"		"1588885622"
+		"addr"		"193.221.192.28:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | DEGROOT CREEP | EU | Fast"
+		"date"		"1588885624"
+		"addr"		"193.221.192.42:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHER TOWER x10 RANDOMIZER | EU 2"
+		"date"		"1588885625"
+		"addr"		"193.221.192.34:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | ORANGE x3 | x10 WEAPONS | EU"
+		"date"		"1588885632"
+		"addr"		"193.221.192.40:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | ORANGE x10 RANDOMIZER | EU"
+		"date"		"1588896484"
+		"addr"		"193.221.192.35:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | 2FORT x10 RANDOMIZER | EU"
+		"date"		"1588896486"
+		"addr"		"193.221.192.29:27015"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder US | 2Fooort | x100 Weapons  ◄"
+		"date"		"1588896493"
+		"addr"		"85.117.240.2:27060"
+	}
+	"server"
+	{
+		"name"		"    Flux.TF | Highertower  "
+		"date"		"1591375983"
+		"addr"		"85.117.240.66:27015"
+	}
+	"server"
+	{
+		"name"		"▄███ Traders Anonymous | Big City! ███▄"
+		"date"		"1593814980"
+		"addr"		"74.91.112.107:27029"
+	}
+	"server"
+	{
+		"name"		"[US/Chicago] SNP:Data | Sniper-Only Pub | [InstRespawn/RifleOnl"
+		"date"		"1600025152"
+		"addr"		"72.5.195.104:27017"
+	}
+	"server"
+	{
+		"name"		"skial.com | HARVEST x10 RANDOMIZER | US"
+		"date"		"1612576147"
+		"addr"		"91.216.250.34:27015"
+	}
+	"server"
+	{
+		"name"		"skial.com | 2FORT x10 RANDOMIZER | US █"
+		"date"		"1612576148"
+		"addr"		"91.216.250.33:27015"
+	}
+	"server"
+	{
+		"name"		"    =(eGO)= 2FORT | US | FAST RESPAWN | EdgeGamers.com"
+		"date"		"1642563982"
+		"addr"		"74.91.124.12:27015"
+	}
+	"server"
+	{
+		"name"		"    Flux.TF | KOTH Highertower | x100 Weapons  "
+		"date"		"1649018515"
+		"addr"		"85.117.240.71:27040"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGH ER TOWER | NO CARTS | EU"
+		"date"		"1654797624"
+		"addr"		"193.221.192.16:27015"
+	}
+	"server"
+	{
+		"name"		"UGC.TF | HIGHTOWER EVENT | HALLOWEEN | EU"
+		"date"		"1654797625"
+		"addr"		"193.221.192.49:27015"
+	}
+}
