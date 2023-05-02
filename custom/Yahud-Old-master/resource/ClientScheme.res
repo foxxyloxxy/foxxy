@@ -33,8 +33,8 @@ Scheme
 
 		"Health"			"255 255 255 215"		//Normal health color
 		
-		"Buff"				"21 200 100 255" 		//Boosted health color
-		"SpecBuff"			"21 190 100 200"		//Darker color for SpecHUD
+		"Buff"				"248 208 216 255" 		//Boosted health color
+		"SpecBuff"			"248 198 216 200"		//Darker color for SpecHUD
 		
 		"LowHP"				"230 50 50 255"			//Low health and ammo warning color
 		"RedHP"				"230 50 50 255"			//"Low Ammo/HP" animation flash color
@@ -43,12 +43,12 @@ Scheme
 		"LowT"				"0 255 0 214"			//Red animation for underline
 		"LowS"				"255 0 0 255"			//Flash color for underline
 			
-		"UberLabel"			"21 207 100 255" 		//Uber ready color %
-		"UberMeter"			"21 207 100 255" 		//Uber ready color for meter	
-		"UberLabelFlash"	"15 95 14 175"			//Uber ready flash color %
-		"UberMeterFlash"	"15 95 14 100"			//Uber ready flash color meter	
+		"UberLabel"			"248 208 216 255" 		//Uber ready color %
+		"UberMeter"			"248 208 216 255" 		//Uber ready color for meter	
+		"UberLabelFlash"	"255 255 255 175"			//Uber ready flash color %
+		"UberMeterFlash"	"255 255 255 100"			//Uber ready flash color meter	
 
-		"Select"			"21 207 100 255"		//This is the hover color for buttons
+		"Select"			"248 208 216 255"		//This is the hover color for buttons
 		
 		//More options, partially for custom options like the line-effect or the colorful main-menu
 		
@@ -67,7 +67,7 @@ Scheme
 		"HudShadow"			"0 0 0 57"				//Used for shadows on various numbers
 													//make last value 0 to remove them, or 255 to make them black
 
-		"HudBGC"			"21 207 100 255" 		//General color background
+		"HudBGC"			"248 208 216 255" 		//General color background
 		"HudBGCT"			"25 225 74 175"			//General color background transparent
 		
 		
