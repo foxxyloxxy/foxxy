@@ -144,4 +144,22 @@
 		"date"		"1654797625"
 		"addr"		"193.221.192.49:27015"
 	}
+	"server"
+	{
+		"name"		"Kogasatopia | New York City | Thrembo"
+		"date"		"1683160079"
+		"addr"		"74.91.116.171:27015"
+	}
+	"server"
+	{
+		"name"		"  ►  Flux.TF | MGE  ◄"
+		"date"		"1683650802"
+		"addr"		"85.117.240.72:27045"
+	}
+	"server"
+	{
+		"name"		"►♥◄ CTP.TF ►♥◄ | GER | MGE"
+		"date"		"1683650891"
+		"addr"		"85.117.240.95:27525"
+	}
 }
