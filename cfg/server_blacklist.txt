@@ -162,4 +162,16 @@
 		"date"		"1683650891"
 		"addr"		"85.117.240.95:27525"
 	}
+	"server"
+	{
+		"name"		"Uncletopia | Montréal | 1 | One Thousand Uncles"
+		"date"		"1686868125"
+		"addr"		"51.222.245.142:27015"
+	}
+	"server"
+	{
+		"name"		"Uncletopia | Montréal | 2 | One Thousand Uncles"
+		"date"		"1686868133"
+		"addr"		"51.222.245.142:27025"
+	}
 }
