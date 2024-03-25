@@ -2756,7 +2756,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/scatter_gun_shoot.wav"
+	"wave"		")weapons/capper_shoot.wav"
 }
 
 "Weapon_Scatter_Gun.SingleCrit"
@@ -2764,7 +2764,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/scatter_gun_shoot_crit.wav"
+	"wave"		")weapons/capper_shoot_crit.wav"
 }
 
 "Weapon_Scatter_Gun.Empty"
@@ -6514,7 +6514,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/doom_scout_pistol.wav"
+	"wave"		")weapons/capper_shoot.wav"
 }
 
 "Weapon_PickPocket_Pistol.SingleCrit"
@@ -6522,7 +6522,7 @@
 	"channel"	"CHAN_WEAPON"
 	"soundlevel"	"SNDLVL_94dB"
 	"volume"	"1.0"
-	"wave"		")weapons/doom_scout_pistol_crit.wav"
+	"wave"		")weapons/capper_shoot_crit.wav"
 }
 
 "Weapon_Brawler_Blaster.Single"
